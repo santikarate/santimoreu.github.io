@@ -8,3 +8,5 @@ In this project I used different shades of white, black and gray, and that's why
 
 Link of the figma project:
 https://www.figma.com/file/IFrTjFJYu5yIzEjYjIvM9o/MI-CV?type=design&node-id=1%3A3&mode=design&t=p3t5mwWnnT4NoaC5-1
+Link of the html project:
+https://santikarate.github.io/santimoreu.github.io/
